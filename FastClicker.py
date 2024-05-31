@@ -1,4 +1,5 @@
 #Special FOR AMINAAAAAAAAAAA
+#Special for DANIELLLLLLL
 import pygame
 import time
 pygame.init()
